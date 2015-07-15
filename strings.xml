@@ -1,0 +1,18 @@
+<resources>
+
+
+    <string name="app_name">B M I</string>
+    <string name="action_settings">action_settings</string>
+    <string name="dfm_1">体重过轻</string>
+    <string name="dfm_2">体重正常</string>
+    <string name="dfm_3">体重稍重</string>
+    <string name="dfm_4">轻度肥胖</string>
+    <string name="dfm_5">中度肥胖</string>
+    <string name="dfm_6">重度肥胖</string>
+    <string name="dfm_7">
+
+    </string>
+
+
+
+</resources>
